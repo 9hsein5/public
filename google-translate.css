@@ -1,4 +1,5 @@
-.goog-te-banner-frame{display:none;} // Don't show Google Topbar
+// Don't show Google Topbar
+.goog-te-banner-frame{display:none;}
 #goog-gt-tt {
   display:none!important;
   visibility:hidden!important;
@@ -63,13 +64,11 @@
     display: none;
 }
 
-// ============ HIDE TOP BAR ============ 
+// HIDE TOP BAR 
 .goog-te-banner-frame.skiptranslate {display: none!important;} 
 body {top: 0px!important;}
 
-/* ================================== *\
-    Mediaqueries
-\* ================================== */
+// Mediaqueries
 @media (max-width: 667px) {
 	#google_translate_element {
 		bottom: calc(100% - 50% - 53px);
