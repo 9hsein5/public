@@ -4,6 +4,6 @@ Add an "Embed widget" to your Experience Builder App.
 
 Choose to embed by CODE.
 
-Copy the JS Script into the "Embed widget" code.
+Copy the JS code into the "Embed widget" code.
 
 Then Save it.
