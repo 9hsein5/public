@@ -1,3 +1,4 @@
+<style>
 // Don't show Google Topbar
 .goog-te-banner-frame {
     display:none !important
@@ -93,3 +94,4 @@ body {
 		}	
 	}
 }
+</style>
